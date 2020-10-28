@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AudioRecord</string>
+    <string name="app_description">Recording of high quality audio and sending uncompressed data on a server. </string>
+    <string name="app_help">Double tap on the log preview opens message sender. Tap on the directory path opens directory chooser.\n\nApp version: </string>
+    <string name="app_version">1.0.1</string>
+</resources>

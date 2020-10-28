@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/compose_recording"
+        android:title="Compose recording"/>
+    <item
+        android:id="@+id/send_log"
+        android:title="Send message">
+    </item>
+    <item
+        android:id="@+id/set_folder"
+        android:title="Manually set folder"/>
+    <item
+        android:id="@+id/about"
+        android:title="About">
+    </item>
+    <item
+        android:id="@+id/exit"
+        android:title="Exit">
+    </item>
+
+</menu>

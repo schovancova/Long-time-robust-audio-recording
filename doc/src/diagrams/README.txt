@@ -1,0 +1,1 @@
+Toto sú zdrojové formy UML diagramov, dajú sa editova na stránke https://www.draw.io/
